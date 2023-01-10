@@ -1,1 +1,1 @@
-# DataMining
+# CSE 572 - Data Mining
